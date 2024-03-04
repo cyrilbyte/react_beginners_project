@@ -1,6 +1,17 @@
 .App {
   text-align: center;
 }
+.display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: 10vh;
+  padding: 30px;
+  margin: 10px auto;
+  font-family: Arial, sans-serif;
+  border-radius: 20px;
+}
 
 .App-logo {
   height: 40vmin;
